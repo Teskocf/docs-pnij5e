@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-qkhtr0.rtb-system.online/sitemap.xml
